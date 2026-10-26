@@ -1,5 +1,4 @@
-# CS-330
-comp graphic and visualization 
+
 # CS-330 Computational Graphics and Visualization
 
 ## How do I approach designing software?
